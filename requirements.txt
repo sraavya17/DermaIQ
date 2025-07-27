@@ -1,0 +1,8 @@
+python-dotenv
+langchain
+langchain-community
+chromadb
+jq
+langchain-google-genai
+easyocr
+pillow
